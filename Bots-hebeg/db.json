@@ -1,0 +1,185 @@
+{
+  "subscriptions": [
+    {
+      "id": "mvg4lx",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "938208144180535320"
+    },
+    {
+      "id": "lpt5mv",
+      "url": "https://www.vinted.fr/vetements?search_text=Sweats&brand_id[]=88&brand_id[]=53&brand_id[]=304&brand_id[]=362&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=4500009588&order=newest_first",
+      "channelID": "933120907973644389"
+    },
+    {
+      "id": "wichi",
+      "url": "https://www.vinted.fr/vetements?search_text=Ralph%20Lauren&catalog[]=5&size_id[]=207&brand_id[]=88&price_to=25&currency=EUR&status[]=1&status[]=2&status[]=3",
+      "channelID": "942827333063159838"
+    },
+    {
+      "id": "2efbsf",
+      "url": "https://www.vinted.fr/vetements?search_text=stussy&size_id[]=207&size_id[]=208&price_to=50.00&currency=EUR",
+      "channelID": "942831347301515324"
+    },
+    {
+      "id": "jw2b5h",
+      "url": "https://www.vinted.fr/vetements?search_text=Lacoste&size_id[]=207&size_id[]=208&price_to=60.00&currency=EUR&brand_id[]=304&brand_id[]=677891&brand_id[]=268734&brand_id[]=5988006",
+      "channelID": "942832391985168385"
+    },
+    {
+      "id": "enw33d",
+      "url": "https://www.vinted.fr/vetements?search_text=Carhartt&size_id[]=207&size_id[]=208&brand_id[]=362&brand_id[]=872289&brand_id[]=1458051&brand_id[]=5715441&price_to=50&currency=EUR",
+      "channelID": "942833092777869333"
+    },
+    {
+      "id": "iuzbvh",
+      "url": "https://www.vinted.fr/vetements?search_text=Ralph%20Lauren&size_id[]=207&size_id[]=208&brand_id[]=88&brand_id[]=2847834&brand_id[]=4559748&brand_id[]=4273&brand_id[]=1766047&brand_id[]=745321&brand_id[]=442625&price_to=50&currency=EUR",
+      "channelID": "942827333063159838"
+    },
+    {
+      "id": "bqqvgq",
+      "url": "https://www.vinted.fr/vetements?search_text=Jordan%204&brand_id[]=2703&price_to=150&currency=EUR&status[]=2&status[]=1",
+      "channelID": "942882372297293925"
+    },
+    {
+      "id": "7vqnkd",
+      "url": "https://www.vinted.fr/vetements?search_text=Jordan%204&brand_id[]=2703&currency=EUR&status[]=2&status[]=1&price_to=150&price_from=40",
+      "channelID": "942883323804532786"
+    },
+    {
+      "id": "9ruspf",
+      "url": "https://www.vinted.fr/vetements?search_text=Jordan%20r%C3%A9tro%206&brand_id[]=2703&price_to=150&currency=EUR",
+      "channelID": "942883323804532786"
+    },
+    {
+      "id": "79hdz",
+      "url": "https://www.vinted.fr/vetements?search_text=The%20north%20face&brand_id[]=2319&brand_id[]=6408486&brand_id[]=2742535&brand_id[]=764525&price_to=100.00&currency=EUR&status[]=1&status[]=2&size_id[]=207&size_id[]=208",
+      "channelID": "942884983662575677"
+    },
+    {
+      "id": "nzff15",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike%20dunk%20low&brand_id[]=53&brand_id[]=5977&brand_id[]=283953&brand_id[]=644222&brand_id[]=2232450&brand_id[]=5750136&brand_id[]=1952232&brand_id[]=6075248&brand_id[]=5774166&brand_id[]=5761505&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942885216308039730"
+    },
+    {
+      "id": "l8sxqd",
+      "url": "https://www.vinted.fr/vetements?search_text=YEEZY&brand_id[]=14&brand_id[]=78308&brand_id[]=194976&brand_id[]=543679&brand_id[]=2293444&brand_id[]=5861556&brand_id[]=5808842&brand_id[]=5977100&brand_id[]=6397426&brand_id[]=772922&price_to=150&currency=EUR&status[]=3&status[]=2&status[]=1&status[]=6",
+      "channelID": "942885216308039730"
+    },
+    {
+      "id": "mnmt",
+      "url": "https://www.vinted.fr/vetements?search_text=Air%20max%201&brand_id[]=53&brand_id[]=5977&brand_id[]=283953&brand_id[]=644222&brand_id[]=6075248&brand_id[]=5774166&brand_id[]=5761505&brand_id[]=1952232&brand_id[]=5750136&brand_id[]=2232450&price_to=150&currency=EUR",
+      "channelID": "942885216308039730"
+    },
+    {
+      "id": "rrjy7vu",
+      "url": "https://www.vinted.fr/vetements?search_text=YEEZY&brand_id[]=14&brand_id[]=78308&brand_id[]=194976&brand_id[]=543679&brand_id[]=2293444&brand_id[]=5808842&brand_id[]=5861556&brand_id[]=5977100&brand_id[]=6397426&brand_id[]=772922&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942886667033935924"
+    },
+    {
+      "id": "fq8esu",
+      "url": "https://www.vinted.fr/vetements?search_text=YEEZY&brand_id[]=14&brand_id[]=78308&brand_id[]=194976&brand_id[]=543679&brand_id[]=2293444&brand_id[]=5808842&brand_id[]=5861556&brand_id[]=5977100&brand_id[]=6397426&brand_id[]=772922&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942886667033935924"
+    },
+    {
+      "id": "t9tc22",
+      "url": "https://www.vinted.fr/vetements?search_text=Air%20max%2097&brand_id[]=53&brand_id[]=5977&brand_id[]=283953&brand_id[]=644222&brand_id[]=6075248&brand_id[]=5774166&brand_id[]=5761505&brand_id[]=1952232&brand_id[]=5750136&brand_id[]=2232450&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942885216308039730"
+    },
+    {
+      "id": "smhhor",
+      "url": "https://www.vinted.fr/vetements?search_text=Nike%20pff%20white&brand_id[]=53&currency=EUR&status[]=2&status[]=3",
+      "channelID": "942885216308039730"
+    },
+    {
+      "id": "2jh3xg",
+      "url": "https://www.vinted.fr/vetements?search_text=Comme%20des%20gar%C3%A7ons&brand_id[]=56974&brand_id[]=929240&brand_id[]=492730&brand_id[]=1330138&brand_id[]=5589958&brand_id[]=2318552&brand_id[]=5983778&brand_id[]=5986331&brand_id[]=3753069&brand_id[]=317443&price_to=100&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942890194842042379"
+    },
+    {
+      "id": "15seal",
+      "url": "https://www.vinted.fr/vetements?search_text=Vans&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942890773513392148"
+    },
+    {
+      "id": "3kgxd",
+      "url": "https://www.vinted.fr/vetements?search_text=New%20balance&brand_id[]=1775&price_to=150.00&currency=EUR&status[]=6&status[]=2&status[]=1&status[]=3",
+      "channelID": "942891686487535656"
+    },
+    {
+      "id": "qyxqr",
+      "url": "https://www.vinted.fr/vetements?search_text=Y-3&brand_id[]=117012&brand_id[]=6029577&brand_id[]=6397426&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942892367084658688"
+    },
+    {
+      "id": "dzf3w",
+      "url": "https://www.vinted.fr/vetements?search_text=Kobe%20Nike&brand_id[]=53&price_to=170&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942893289433104437"
+    },
+    {
+      "id": "jcbkdm",
+      "url": "https://www.vinted.fr/vetements?search_text=Bape&brand_id[]=4698593&brand_id[]=4691320&price_to=150&currency=EUR&size_id[]=207&size_id[]=208",
+      "channelID": "942895388749352970"
+    },
+    {
+      "id": "0mskqq",
+      "url": "https://www.vinted.fr/vetements?search_text=Bapestar&brand_id[]=4698593&brand_id[]=4691320&price_to=150&currency=EUR&size_id[]=207&size_id[]=208",
+      "channelID": "942895388749352970"
+    },
+    {
+      "id": "rblgtc",
+      "url": "https://www.vinted.fr/vetements?search_text=Dunk%20hight&brand_id[]=53&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942902735240589363"
+    },
+    {
+      "id": "l5420c",
+      "url": "https://www.vinted.fr/vetements?search_text=Dunk%20hight&brand_id[]=53&price_to=150&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&size_id[]=782&size_id[]=780&size_id[]=784",
+      "channelID": "942903507978170418"
+    },
+    {
+      "id": "zx6aga",
+      "url": "https://www.vinted.fr/vetements?search_text=Palace&size_id[]=207&size_id[]=208&price_to=70&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942904029791526932"
+    },
+    {
+      "id": "9qva3",
+      "url": "https://www.vinted.fr/vetements?search_text=columbia&size_id[]=208&size_id[]=207&price_to=50&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3",
+      "channelID": "942905859070103654"
+    },
+    {
+      "id": "4m2o0r",
+      "url": "https://www.vinted.fr/vetements?search_text=Arc%27teryx&brand_id[]=319730&price_to=70&currency=EUR&status[]=6&status[]=1&status[]=2&status[]=3&size_id[]=208&size_id[]=207",
+      "channelID": "942907211858997268"
+    }
+  ],
+  "last_item_ts_mvg4lx": 1644916327000,
+  "last_item_ts_lpt5mv": 1644916327000,
+  "last_item_ts_wichi": 1644916530000,
+  "last_item_ts_2efbsf": 1644916359000,
+  "last_item_ts_jw2b5h": 1644916501000,
+  "last_item_ts_enw33d": 1644916399000,
+  "last_item_ts_iuzbvh": 1644916552000,
+  "last_item_ts_bqqvgq": 1644915436000,
+  "last_item_ts_7vqnkd": 1644915436000,
+  "last_item_ts_9ruspf": 1644874334000,
+  "last_item_ts_79hdz": 1644916523000,
+  "last_item_ts_nzff15": 1644916489000,
+  "last_item_ts_l8sxqd": 1644881119000,
+  "last_item_ts_mnmt": 1644916543000,
+  "last_item_ts_rrjy7vu": 1644881119000,
+  "last_item_ts_fq8esu": 1644881119000,
+  "last_item_ts_t9tc22": 1644916543000,
+  "last_item_ts_smhhor": 1642872653000,
+  "last_item_ts_2jh3xg": 1642674803000,
+  "last_item_ts_15seal": 1644916611000,
+  "last_item_ts_3kgxd": 1644916556000,
+  "last_item_ts_qyxqr": 1644915017000,
+  "last_item_ts_dzf3w": 1644916303000,
+  "last_item_ts_jcbkdm": 1644915917000,
+  "last_item_ts_0mskqq": 1641394380000,
+  "last_item_ts_rblgtc": 1644881990000,
+  "last_item_ts_l5420c": 1644181889000,
+  "last_item_ts_zx6aga": 1644915244000,
+  "last_item_ts_9qva3": 1644916556000,
+  "last_item_ts_4m2o0r": 1644857401000,
+  "is_first_sync": false
+}
